@@ -1,0 +1,1 @@
+# When we create the __init__.py file inside the folder we are marking the folder as it's a package
